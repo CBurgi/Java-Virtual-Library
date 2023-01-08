@@ -1,6 +1,9 @@
 # Java-Virtual-Library
 By Cole Burgi
+
 This program is meant to represent a virtual library of books. It holds 3 classes + a tester class.
+
+This program was written in JAVA using NetBeans
 
 # Classes
 1. Author: Stores first and last name (Strings)
